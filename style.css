@@ -1,0 +1,28 @@
+.header__title{
+  color: green; 
+  font-style: oblique;
+  font-size: medium;
+  font-synthesis: none;
+  font-family: 'Source Sans Pro', sans-serif;
+ }
+.header__text{
+ background: yellow;
+ border-style: solid; 
+ border-color: gold green red blue;
+ border-width: 10px;
+ top: 20px;
+ font-family: fantasy;
+ font-family: 'Rubik', sans-serif;
+ }
+ .section__text{
+ text-align: justify;
+ word-spacing: 2px;
+ text-indent: 5mm;
+ hyphens: none;
+ line-break: normal;
+ white-space: normal;
+ text-transform: capitalize;
+ font-weight: bold;
+ font-stretch: normal;
+ columns: 12em;
+ }
